@@ -1,12 +1,6 @@
 {
-  "bword": [
-    {"caa"},
-    {"caaed"},
-    {"caaing"},
-    {"caas"},
-    {"caatinga"},
-    {"caatingas"},
-    {"czaritzas"},
-    {"czars"}
-  ]
+  "bword":
+  ["caa"],
+  ["caaed"],
+  ["caaing"]
 }
